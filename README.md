@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Rosalyn
+
+Check out my Blockchain and Twitter Analytics project where I demonstrate my analytical engineering skills. 
+<https://rosalyn.observablehq.cloud/rosalyn-analytics/>
 
 <!--
 **ghrjeon/ghrjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
