@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rosalyn
 
-I am a PhD candidate in Economics with experience in blockchain data science and analytical engineering. I am driven by continuous learning and looking to join a team to build things that make a difference. 
+I am a PhD candidate in Economics with experience in blockchain data and analytical engineering. I am driven by continuous learning and looking to join a team to build things that make a difference. 
 
 
 Check out my <b> Blockchain and Twitter Analytics project </b> <https://rosalyn.observablehq.cloud/rosalyn-analytics/> where I demonstrate my analytical engineering skills, domain knowledge in blockchain, and the ability to leverage AI in data analysis! 
