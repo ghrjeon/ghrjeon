@@ -2,7 +2,7 @@
 
 I am a PhD candidate in Economics with a strong foundation in data science, blockchain, and analytical engineering. I am driven by continuous learning and passionate about solving complex problems using cutting-edge technology. I am excited to join a team to build things that make a difference! 
 
-Check out my <a><b> Crypto Jobs Analytics project </b> <a href="https://rosalyn-cryptojobs-ai.vercel.app" target="_blank" rel="noopener noreferrer">https://rosalyn-cryptojobs-ai.vercel.app</a> where I integrate ML, NLP, LLM, and full-stack development to analyze and optimize crypto job search! 
+Check out my <a><b> Crypto Jobs Analytics project </b> <a href="https://rosalyn-cryptojobs-ai.vercel.app" target="_blank" rel="noopener noreferrer">https://rosalyn-cryptojobs-ai.vercel.app</a> where I integrate ML, NLP, LLM, and full-stack development to build a custom chatbot for data analysis and optimize crypto job search! 
 
 Check out my <a><b> Blockchain and Twitter Analytics project </b> <a href="https://rosalyn.observablehq.cloud/rosalyn-analytics" target="_blank" rel="noopener noreferrer"> https://rosalyn.observablehq.cloud/rosalyn-analytics</a> where I demonstrate my analytical engineering skills, domain knowledge in blockchain, and the ability to leverage AI in data analysis! 
 
