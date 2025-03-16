@@ -11,6 +11,15 @@ Check out my <b> ME & TENSOR Market Analysis Dashboard </b> <a href="https://dun
 Check out my <a><b> Blockchain and Twitter Analytics project </b> <a href="https://rosalyn.observablehq.cloud/rosalyn-analytics" target="_blank" rel="noopener noreferrer"> https://rosalyn.observablehq.cloud/rosalyn-analytics</a> where I demonstrate my analytical engineering skills, domain knowledge in blockchain, and the ability to leverage AI in data analysis! 
 
 
+<br>
+
+<b>Skills & Stack</b> <br>
+<b>Data Science</b>: Data Analysis, Data Visualization, Behavioral Modeling, Econometrics, Causal Inference, Experimentation, Machine Learning, NLP/LLMs <br>
+<b>Data Engineering</b>: Data Modeling, Data Transformation, ETL Pipelines, API Development, Web scraping <br>
+<b>Workflow & Cloud</b>: dbt, Airflow, Git, AWS (S3, Glue, Athena), GCP (BigQuery, Cloud Storage), Supabase <br>
+<b>Programming & Frameworks</b>: Python, R, SQL, JavaScript, Bash, Flask, Django, Node.js, React <br>
+
+
 <!--
 **ghrjeon/ghrjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
