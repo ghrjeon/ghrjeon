@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rosalyn
 
-I am a PhD candidate in Economics skilled in data science, blockchain analytics, and data engineering. I am driven by continuous learning and passionate about creative problem-solving, community growth, and Web3. 
+I am a PhD candidate in Economics skilled in data science, blockchain analytics, and data engineering. I am driven by continuous learning and passionate about creative problem-solving, community building, and Web3. 
 
 I am excited to join a team to build things that make a difference! 
 
