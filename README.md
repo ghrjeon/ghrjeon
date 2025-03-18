@@ -4,7 +4,7 @@ I am a PhD candidate in Economics skilled in data science, blockchain analytics,
 
 I am excited to join a team to build things that make a difference! 
 
-Check out my <a><b> Crypto Jobs Analytics project </b> <a href="https://rosalyn-cryptojobs-ai.vercel.app" target="_blank" rel="noopener noreferrer">https://rosalyn-cryptojobs-ai.vercel.app</a> where I integrate ML, NLP, LLM, and full-stack development to build a custom chatbot for data analysis and optimize crypto job search! 
+Check out my <a><b> Crypto Jobs Analytics project </b> <a href="https://rosalyn-cryptojobs-ai.vercel.app" target="_blank" rel="noopener noreferrer">https://rosalyn-cryptojobs-ai.vercel.app</a> where I integrate web scraping, ML, NLP, LLM, and full-stack development to build a custom chatbot for data analysis and optimize crypto job search! 
 
 Check out my <b> ME & TENSOR Market Analysis Dashboard </b> <a href="https://dune.com/theano2247/me-and-tensor-market-analysis" target="_blank" rel="noopener noreferrer"> https://dune.com/theano2247/me-and-tensor-market-analysis</a> where I analyze transaction activities across Magic Eden and Tensor. 
 
@@ -14,9 +14,10 @@ Check out my <a><b> Blockchain and Twitter Analytics project </b> <a href="https
 <br>
 
 <b>Skills & Stack</b> <br>
-<b>Data Science</b>: Data Analysis, Data Visualization, Behavioral Modeling, Econometrics, Causal Inference, Experimentation, Machine Learning, NLP/LLMs <br>
+<b>Data Science</b>: Exploratory Data Analysis, Statistical Analysis, Behavioral Modeling, Predictive Modeling, Econometrics, Causal Inference, Experimentation, Machine Learning, NLP/LLMs <br>
+<b>Visualization & Reporting</b>: QuickSight, Tableau, Plotly, D3.js, Excel, PowerPoint  <br>
 <b>Data Engineering</b>: Data Modeling, Data Transformation, ETL Pipelines, API Development, Web scraping <br>
-<b>Workflow & Cloud</b>: dbt, Airflow, Git, AWS (S3, Glue, Athena), GCP (BigQuery, Cloud Storage), Supabase <br>
+<b>Workflow & Cloud</b>: dbt, Airflow, Databricks, AWS (S3, Glue, MWAA, Athena), GCP (BigQuery, Cloud Composer, Cloud Storage), Supabase, Git/GitHub/Actions <br>
 <b>Programming & Frameworks</b>: Python, R, SQL, JavaScript, Bash, Flask, Django, Node.js, React <br>
 
 
