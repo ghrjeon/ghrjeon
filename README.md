@@ -16,7 +16,7 @@ Check out my <a><b> Blockchain Twitter Analytics project </b> <a href="https://r
 <b>Data Science</b>: Exploratory Data Analysis, Statistical Analysis, Behavioral Modeling, Predictive Modeling, Econometrics, Causal Inference, Experimentation, Machine Learning, NLP/LLMs <br>
 <b>Visualization & Reporting</b>: QuickSight, Tableau, Plotly, D3.js, Excel, PowerPoint  <br>
 <b>Data Engineering</b>: Data Modeling, Data Transformation, ETL Pipelines, API Development, Web scraping <br>
-<b>Workflow & Cloud</b>: dbt, Airflow, Databricks, AWS (S3, Glue, MWAA, Athena), GCP (BigQuery, Cloud Composer, Cloud Storage), Supabase, Git/GitHub/Actions <br>
+<b>Workflow & Cloud</b>: dbt, Airflow, Databricks, AWS, GCP, Supabase, Git/GitHub/Actions, Dune Analytics <br>
 <b>Programming & Frameworks</b>: Python, R, SQL, JavaScript, Bash, Flask, Django, Node.js, React <br>
 
 
