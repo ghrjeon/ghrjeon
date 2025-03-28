@@ -6,7 +6,9 @@ I am excited to join a team to build things that make a difference!
 
 Check out my <a><b> Crypto Jobs Analytics project </b> <a href="https://rosalyn-cryptojobs-ai.vercel.app" target="_blank" rel="noopener noreferrer">https://rosalyn-cryptojobs-ai.vercel.app</a> where I integrate web scraping, ML, NLP, LLM, and full-stack development to build a custom chatbot for data analysis and optimize crypto job search! 
 
-Check out my <b> ME & TENSOR Market Analysis Dashboard </b> <a href="https://dune.com/theano2247/me-and-tensor-market-analysis" target="_blank" rel="noopener noreferrer"> https://dune.com/theano2247/me-and-tensor-market-analysis</a> where I analyze transaction activities across Magic Eden and Tensor. 
+Check out my <b> Fractal Visions X Soneium Dune Dashboard </b> <a href="https://dune.com/visionwizards/fractal-visions-soneium" target="_blank" rel="noopener noreferrer"> https://dune.com/visionwizards/fractal-visions-soneium</a> where I analyze Soneium NFT activities on Fractal Visions marketplace! 
+
+Check out my <b> ME & TENSOR Market Analysis Dune Dashboard </b> <a href="https://dune.com/theano2247/me-and-tensor-market-analysis" target="_blank" rel="noopener noreferrer"> https://dune.com/theano2247/me-and-tensor-market-analysis</a> where I analyze transaction activities across Magic Eden and Tensor. 
 
 Check out my <a><b> Blockchain Twitter Analytics project </b> <a href="https://rosalyn.observablehq.cloud/rosalyn-analytics" target="_blank" rel="noopener noreferrer"> https://rosalyn.observablehq.cloud/rosalyn-analytics</a> where I use modern data engineering tools to highlight daily key trends and topics across the crypto Twitter ecosystem! 
 
