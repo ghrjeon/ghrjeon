@@ -4,22 +4,24 @@ I am a PhD candidate in Economics skilled in data science, blockchain analytics,
 
 I am excited to join a team to build things that make a difference! 
 
-Check out my <a><b> Crypto Jobs Analytics project </b> <a href="https://rosalyn-cryptojobs-ai.vercel.app" target="_blank" rel="noopener noreferrer">https://rosalyn-cryptojobs-ai.vercel.app</a> where I integrate web scraping, ML, NLP, LLM, and full-stack development to build a custom chatbot for data analysis and optimize crypto job search! 
+Check out my: 
 
-Check out my <b> Fractal Visions X Soneium Dune Dashboard </b> <a href="https://dune.com/visionwizards/fractal-visions-soneium" target="_blank" rel="noopener noreferrer"> https://dune.com/visionwizards/fractal-visions-soneium</a> where I analyze Soneium NFT activities on Fractal Visions marketplace! 
+<a><b> Crypto Jobs Analytics project </b> <a href="https://rosalyn-cryptojobs-ai.vercel.app" target="_blank" rel="noopener noreferrer">https://rosalyn-cryptojobs-ai.vercel.app</a> where I integrate web scraping, ML, NLP, LLM, and full-stack development to build a custom chatbot for data analysis and optimize crypto job search! 
 
-Check out my <b> ME & TENSOR Market Analysis Dune Dashboard </b> <a href="https://dune.com/theano2247/me-and-tensor-market-analysis" target="_blank" rel="noopener noreferrer"> https://dune.com/theano2247/me-and-tensor-market-analysis</a> where I analyze transaction activities across Magic Eden and Tensor. 
+<b> Fractal Visions X Soneium Dune Dashboard </b> <a href="https://dune.com/visionwizards/fractal-visions-soneium" target="_blank" rel="noopener noreferrer"> https://dune.com/visionwizards/fractal-visions-soneium</a> where I ingest, decode, and analyze Soneium blockchain activities on Fractal Visions NFT marketplace! 
 
-Check out my <a><b> Blockchain Twitter Analytics project </b> <a href="https://rosalyn.observablehq.cloud/rosalyn-analytics" target="_blank" rel="noopener noreferrer"> https://rosalyn.observablehq.cloud/rosalyn-analytics</a> where I use modern data engineering tools to highlight daily key trends and topics across the crypto Twitter ecosystem! 
+<b> ME & TENSOR Market Analysis Dune Dashboard </b> <a href="https://dune.com/theano2247/me-and-tensor-market-analysis" target="_blank" rel="noopener noreferrer"> https://dune.com/theano2247/me-and-tensor-market-analysis</a> where I analyze transaction activities across Magic Eden and Tensor. 
+
+<a><b> Blockchain Twitter Analytics project </b> <a href="https://rosalyn.observablehq.cloud/rosalyn-analytics" target="_blank" rel="noopener noreferrer"> https://rosalyn.observablehq.cloud/rosalyn-analytics</a> where I use modern data engineering tools to highlight daily key trends and topics across the crypto Twitter ecosystem! 
 
 <br>
 
 <b>Skills & Stack</b> <br>
 <b>Data Science</b>: Exploratory Data Analysis, Statistical Analysis, Behavioral Modeling, Predictive Modeling, Econometrics, Causal Inference, Experimentation, Machine Learning, NLP/LLMs <br>
-<b>Visualization & Reporting</b>: QuickSight, Tableau, Plotly, D3.js, Excel, PowerPoint  <br>
+<b>Visualization & Reporting</b>: QuickSight, Tableau, Plotly, D3.js, Excel, PowerPoint, Dune Analytics  <br>
 <b>Data Engineering</b>: Data Modeling, Data Transformation, ETL Pipelines, API Development, Web scraping <br>
-<b>Workflow & Cloud</b>: dbt, Airflow, Databricks, AWS, GCP, Supabase, Git/GitHub/Actions, Dune Analytics <br>
-<b>Programming & Frameworks</b>: Python, R, SQL, JavaScript, Bash, Flask, Django, Node.js, React <br>
+<b>Workflow & Cloud</b>: dbt, Airflow, Databricks, AWS, GCP, Supabase, Git/GitHub/Actions <br>
+<b>Programming & Frameworks</b>: Python, R, SQL, JavaScript, Django, Node.js, React <br>
 
 
 <!--
