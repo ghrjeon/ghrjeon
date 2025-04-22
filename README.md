@@ -23,7 +23,6 @@ Check out my:
 
 
 <!--
-<b> ME & TENSOR Market Analysis Dune Dashboard </b> <a href="https://dune.com/theano2247/me-and-tensor-market-analysis" target="_blank" rel="noopener noreferrer"> https://dune.com/theano2247/me-and-tensor-market-analysis</a> where I analyze transaction activities across Magic Eden and Tensor. 
 **ghrjeon/ghrjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
