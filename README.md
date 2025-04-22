@@ -10,8 +10,6 @@ Check out my:
 
 <b> Fractal Visions X Soneium Dune Dashboard </b> <a href="https://dune.com/visionwizards/fractal-visions-soneium" target="_blank" rel="noopener noreferrer"> https://dune.com/visionwizards/fractal-visions-soneium</a> where I ingest, decode, and analyze Soneium blockchain activities on Fractal Visions NFT marketplace! 
 
-<b> ME & TENSOR Market Analysis Dune Dashboard </b> <a href="https://dune.com/theano2247/me-and-tensor-market-analysis" target="_blank" rel="noopener noreferrer"> https://dune.com/theano2247/me-and-tensor-market-analysis</a> where I analyze transaction activities across Magic Eden and Tensor. 
-
 <a><b> Blockchain Twitter Analytics project </b> <a href="https://rosalyn.observablehq.cloud/rosalyn-analytics" target="_blank" rel="noopener noreferrer"> https://rosalyn.observablehq.cloud/rosalyn-analytics</a> where I use modern data engineering tools to highlight daily key trends and topics across the crypto Twitter ecosystem! 
 
 <br>
@@ -25,6 +23,7 @@ Check out my:
 
 
 <!--
+<b> ME & TENSOR Market Analysis Dune Dashboard </b> <a href="https://dune.com/theano2247/me-and-tensor-market-analysis" target="_blank" rel="noopener noreferrer"> https://dune.com/theano2247/me-and-tensor-market-analysis</a> where I analyze transaction activities across Magic Eden and Tensor. 
 **ghrjeon/ghrjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
