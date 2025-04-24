@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Rosalyn
-
+<!--
 I am a PhD candidate in Economics skilled in data science, blockchain analytics, and data engineering. I am driven by continuous learning and passionate about community building and Web3. 
 
 I am excited to join a team to build things that make a difference! 
@@ -20,6 +20,7 @@ Check out my:
 <b>Data Engineering</b>: Data Modeling, Data Transformation, ETL Pipelines, API Development, Web scraping <br>
 <b>Workflow & Cloud</b>: dbt, Airflow, Databricks, AWS, GCP, Supabase, Git/GitHub/Actions <br>
 <b>Programming & Frameworks</b>: Python, R, SQL, JavaScript, Django, Node.js, React <br>
+-->
 
 
 <!--
